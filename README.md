@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Brandon Nyutu a passionate Junior Fullstack developer from Nairobi Kenya.<br><br>-🧠 Open to learning something new everyday and open to collaborate on projects.<br>- 📚 I'm currently learning Computer Science.<br>-💻Currently I'm specialising in web development using Javascript and React .</p>
+<p align="left">I'm Brandon Nyutu a passionate Fullstack developer from Nairobi Kenya.<br><br>-🧠 Open to learning something new everyday and open to collaborate on projects.<br>- 📚 I'm currently learning Computer Science.<br>-💻Currently I'm specialising in web development using Javascript and React .</p>
 
 ###
 
